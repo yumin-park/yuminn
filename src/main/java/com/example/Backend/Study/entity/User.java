@@ -1,7 +1,7 @@
 // src/main/java/com.example.Backend.Study/entity/User.java
 
 package com.example.Backend.Study.entity;
-
+//jj
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
